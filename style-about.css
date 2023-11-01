@@ -1,0 +1,15 @@
+.about-me {
+    justify-content: center;
+    Display: flex;
+}
+
+li {
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+}
+
+.a-li {
+    color: white;
+}
